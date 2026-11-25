@@ -8,7 +8,6 @@ Python project that reads a dedicated Gmail test inbox, extracts invoice and pur
 - Mandisa
 - Moji
 
-No work has been assigned yet. We will decide and record tasks together when the team is ready. Everyone reviews pull requests, writes tests for their own changes, and updates documentation.
 
 ## Quick start
 
