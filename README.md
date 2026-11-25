@@ -4,11 +4,11 @@ Python project that reads a dedicated Gmail test inbox, extracts invoice and pur
 
 ## Team
 
-- Ako - Sprint 1: Gmail and orchestration lead
-- Mandisa - Sprint 1: Extraction lead
-- Moji - Sprint 1: Data quality lead
+- Ako
+- Mandisa
+- Moji
 
-Roles rotate each sprint. Everyone reviews at least two pull requests each week, writes tests for their own work, and updates documentation.
+No work has been assigned yet. We will decide and record tasks together when the team is ready. Everyone reviews pull requests, writes tests for their own changes, and updates documentation.
 
 ## Quick start
 
@@ -18,13 +18,9 @@ Roles rotate each sprint. Everyone reviews at least two pull requests each week,
 4. Put your Google OAuth `credentials.json` in the project root. Never commit it.
 5. Run tests: `pytest`
 
-## Sprint 1 scope
+## Project reference checklist
 
-- Configure Gmail OAuth against a dedicated test account.
-- List unread emails and find PDF attachments.
-- Create the InvoiceBot Gmail labels when missing.
-- Generate the first eight synthetic invoices.
-- Open small pull requests using the template in `.github`.
+The project brief's earlier-sprint milestones are reference material only. We are continuing this project in the current sprint and will agree the next work together.
 
 ## Git workflow
 
