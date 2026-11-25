@@ -1,0 +1,1 @@
+"""Logistics invoice extraction pipeline."""

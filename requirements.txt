@@ -1,0 +1,13 @@
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+pdfplumber
+pdf2image
+pytesseract
+pydantic>=2
+pandas
+python-dotenv
+anthropic
+pytest
+reportlab
+faker
